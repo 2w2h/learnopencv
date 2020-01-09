@@ -1,3 +1,18 @@
+# learnopencv - units
+
+Переработка учебных примеров кода на Python по openCV в пакет юнитов
+компьютерного зрения  (cv.*)
+
+Источники:  
+https://opencv-python-tutroals.readthedocs.io  
+https://www.learnopencv.com  
+
+_units - готовые юниты
+_docker - готовое окружение для запуска юнитов (часть wShell Core)
+(https://www.learnopencv.com/install-opencv-docker-image-ubuntu-macos-windows/)
+В /root/demo/python лежит скрипт для запуска Facial Landmark detection
+
+
 # learnopencv
 Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
 
